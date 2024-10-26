@@ -4,6 +4,8 @@ Bom dia caros alun@s, sou o professor de física que está substituindo a profes
 Lembrando que essa lista é válida para as turmas J,K,L,M,N,O,P,Q e R.
 
 
+https://github.com/jrlmfilho/Escola/blob/main/conteudo_exercicios.pdf
+
 
 
 
