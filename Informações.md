@@ -23,6 +23,15 @@ Lista 4:
 
 
 ## Eletivas
+Alun@s eu estou colocando esse canal para atualizar as informações com os alunos. Usem com sabedoria esse repositório com todas as informações.
+
+Acompanhem as minhas vídeo-aulas que estão na sessão "Vídeos aulas links".
+
+Acessem ao site https://passeandounb.com/provas-anteriores-do-pas-1/ para fazer o download das provas antigas do PAS primeira etapa.
+
+E aos que se sentirem encorajados podem usar os meus conteúdos da minha FGB para estudarem para o PAS.
+
+
 ## Recuperação
 ### Material de estudo:
 
