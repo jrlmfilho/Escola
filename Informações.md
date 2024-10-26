@@ -9,9 +9,11 @@ Lembrando que essa lista é válida para as turmas J,K,L,M,N,O,P,Q e R.
 
 Lista 2: Resolver os exercícios do T57 a T76, T77 a T93, T101-T114.
 
-
+https://github.com/jrlmfilho/Escola/blob/main/conteudo2_exercicios2.pdf (link de acesso ao arquivo)
 
 Lista 3:  Resolver os exercícios T120-T128, P156-P162, T151-T168
+
+
 
 
 ## Eletivas
