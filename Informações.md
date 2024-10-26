@@ -13,6 +13,10 @@ https://github.com/jrlmfilho/Escola/blob/main/conteudo2_exercicios2.pdf (link de
 
 Lista 3:  Resolver os exercícios T120-T128, P156-P162, T151-T168
 
+https://github.com/jrlmfilho/Escola/blob/main/conteudo3_exercicios.pdf
+
+Lista 4:  
+
 
 
 
