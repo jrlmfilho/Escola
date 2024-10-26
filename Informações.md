@@ -26,6 +26,22 @@ Lista 4:
 ## Recuperação
 ### Material de estudo:
 
+##### vídeo aulas links:
+
+https://youtu.be/5taCf_dmcMA
+
+https://youtu.be/eWsPjILhrPs
+
+https://youtu.be/fsSCN6RtXZ0
+
+https://youtu.be/XCBKIoXSipw
+
+https://youtu.be/x4uhy4rD_QY
+
+https://youtu.be/5dmh5vlX7pk
+
+https://youtu.be/mhj6FKHmGr8
+
 
 
 
