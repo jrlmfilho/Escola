@@ -37,19 +37,19 @@ E aos que se sentirem encorajados podem usar os meus conteúdos da minha FGB par
 
 ##### vídeo aulas links:
 
-https://youtu.be/5taCf_dmcMA
+https://youtu.be/5taCf_dmcMA MRUV parte 1
 
-https://youtu.be/eWsPjILhrPs
+https://youtu.be/eWsPjILhrPs MRUV parte 2
 
-https://youtu.be/fsSCN6RtXZ0
+https://youtu.be/fsSCN6RtXZ0 MRUV parte 3
 
-https://youtu.be/XCBKIoXSipw
+https://youtu.be/XCBKIoXSipw Aula de cinemática.
 
-https://youtu.be/x4uhy4rD_QY
+https://youtu.be/x4uhy4rD_QY Corpo em queda livre
 
-https://youtu.be/5dmh5vlX7pk
+https://youtu.be/5dmh5vlX7pk Vídeo de lançamentos
 
-https://youtu.be/mhj6FKHmGr8
+https://youtu.be/mhj6FKHmGr8 Aula de MRU
 
 ## Comunicação 
 ### Email:
