@@ -33,6 +33,8 @@ E aos que se sentirem encorajados podem usar os meus conteúdos da minha FGB par
 
 
 ## Recuperação
+Essa seção aqui é para os alunos que ficaram em recuperação no semestre passado. Só baixar o arquivo abaixo imprimir, fazer a solução e me entregar até antes de 5 dezembro.  
+https://github.com/jrlmfilho/Escola/blob/main/recupera%C3%A7%C3%A3o.pdf (Arquivo com o exercício de recuperação)
 ### Material de estudo:
 
 ##### vídeo aulas links:
