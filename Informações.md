@@ -4,7 +4,7 @@ Bom dia caros alun@s, sou o professor de física que está substituindo a profes
 Lembrando que essa lista é válida para as turmas J,K,L,M,N,O,P,Q e R.
 
 
-https://github.com/jrlmfilho/Escola/blob/main/conteudo_exercicios.pdf
+https://github.com/jrlmfilho/Escola/blob/main/conteudo_exercicios.pdf (link de acesso ao arquivo)
 
 
 
@@ -15,11 +15,11 @@ https://github.com/jrlmfilho/Escola/blob/main/conteudo2_exercicios2.pdf (link de
 
 Lista 3:  Resolver os exercícios T120-T128, P156-P162, T151-T168
 
-https://github.com/jrlmfilho/Escola/blob/main/conteudo3_exercicios.pdf
+https://github.com/jrlmfilho/Escola/blob/main/conteudo3_exercicios.pdf (link de acesso ao arquivo)
 
 Lista 4:  Resolver os exercícios T204-T233, T234-T244
 
-https://github.com/jrlmfilho/Escola/blob/main/conteudo4_exercicios.pdf
+https://github.com/jrlmfilho/Escola/blob/main/conteudo4_exercicios.pdf (link de acesso ao arquivo)
 
 
 
