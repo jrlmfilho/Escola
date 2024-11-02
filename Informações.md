@@ -17,7 +17,9 @@ Lista 3:  Resolver os exercícios T120-T128, P156-P162, T151-T168
 
 https://github.com/jrlmfilho/Escola/blob/main/conteudo3_exercicios.pdf
 
-Lista 4:  
+Lista 4:  Resolver os exercícios T204-T233, T234-T244
+
+https://github.com/jrlmfilho/Escola/blob/main/conteudo4_exercicios.pdf
 
 
 
