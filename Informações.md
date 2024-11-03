@@ -21,7 +21,7 @@ Lista 4:  Resolver os exercícios T204-T233, T234-T244
 
 https://github.com/jrlmfilho/Escola/blob/main/conteudo4_exercicios.pdf (link de acesso ao arquivo)
 
-Esntregas de trabalhos e datas:
+Entregas de trabalhos e datas:
 
 | Atividade  | Datas        | 
 |------------|--------------|
