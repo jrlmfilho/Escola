@@ -23,13 +23,13 @@ https://github.com/jrlmfilho/Escola/blob/main/conteudo4_exercicios.pdf (link de 
 
 Entregas de trabalhos e datas:
 
-| Atividade  | Datas        | 
-|------------|--------------|
-|lista 2 e 3 |04/11 ao 08/11|      
-| Teste 2    |04/11 ao 08/11|
-|            |              |
-|            |              |
-
+| Atividade  | Datas        | Observações        | 
+|------------|--------------|--------------------|
+|lista 2 e 3 |04/11 ao 08/11|                    |
+| Teste 2    |04/11 ao 08/11|                    |
+| Teste 3    |11/11 ao 15/11|                    |
+|lista 4     |24/11 ao 29/11|                    |
+|Teste 4     |24/11 ao 29/11| Havendo tempo hábil|
 
 
 ## Eletivas
