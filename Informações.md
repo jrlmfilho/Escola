@@ -21,7 +21,15 @@ Lista 4:  Resolver os exercícios T204-T233, T234-T244
 
 https://github.com/jrlmfilho/Escola/blob/main/conteudo4_exercicios.pdf (link de acesso ao arquivo)
 
-
+\begin{tabular}{|c|c|c|c|}
+    \hline
+    \multirow{2}{*}{Item} & \multicolumn{3}{c|}{Detalhes} \\
+    \cline{2-4}
+    & Coluna 1 & Coluna 2 & Coluna 3 \\
+    \hline
+    Linha 1 & Dado 1 & Dado 2 & Dado 3 \\
+    \hline
+\end{tabular}
 
 
 ## Eletivas
