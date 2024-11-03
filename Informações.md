@@ -23,12 +23,12 @@ https://github.com/jrlmfilho/Escola/blob/main/conteudo4_exercicios.pdf (link de 
 
 Esntregas de trabalhos e datas:
 
-| Atividade  | Datas      | Coluna 3   |
-|------------|------------|------------|
-| -lista 2    
-| Dado 2     | Dado 3     |
-| Dado 4     | Dado 5     | Dado 6     |
-| Dado 7     | Dado 8     | Dado 9     |
+| Atividade  | Datas        | 
+|------------|--------------|
+|lista 2 e 3 |04/11 ao 08/11|      
+| Teste 2    |04/11 ao 08/11|
+|            |              |
+|            |              |
 
 
 
