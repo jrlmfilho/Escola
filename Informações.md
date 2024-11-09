@@ -59,6 +59,8 @@ https://youtu.be/XCBKIoXSipw Aula de cinemática.
 
 https://youtu.be/x4uhy4rD_QY Corpo em queda livre
 
+https://youtu.be/E43-CfukEgs?si=_Ok5LfOVMSV24aQG (vídeo comprovando a queda livre no vácuo)
+
 https://youtu.be/5dmh5vlX7pk Vídeo de lançamentos
 
 https://youtu.be/mhj6FKHmGr8 Aula de MRU
