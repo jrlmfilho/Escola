@@ -31,6 +31,10 @@ Entregas de trabalhos e datas:
 |lista 4     |24/11 ao 29/11|                    |
 |Teste 4     |24/11 ao 29/11| Havendo tempo hábil|
 
+Aviso:
+
+Com a correria dos jogos hoje(16/11) vou lançar o vídeo com o nome leis de Newton para todos os que quiserem assistir e para ajudar com a lista 4. O teste 3 vai ser em cima das listas 3 e 4.
+
 
 ## Eletivas
 Alun@s eu estou colocando esse canal para atualizar as informações com os alunos. Usem com sabedoria esse repositório com todas as informações.
