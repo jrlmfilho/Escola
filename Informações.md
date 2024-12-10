@@ -35,6 +35,8 @@ Aviso:
 
 Com a correria dos jogos hoje(16/11) vou lançar o vídeo com o nome leis de Newton para todos os que quiserem assistir e para ajudar com a lista 4. O teste 3 vai ser em cima das listas 3 e 4.
 
+Pessoal da FGB eu já fechei as notas porém não vou disponibilizar via internet devido a correria para fechar as notas de vocês assim como o diário. Enão se quiser saber a sua situação favor procurar a minha pessoa lá na escola para fazer essa consulta.
+
 
 ## Eletivas
 Alun@s eu estou colocando esse canal para atualizar as informações com os alunos. Usem com sabedoria esse repositório com todas as informações.
